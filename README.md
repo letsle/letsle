@@ -1,10 +1,12 @@
 ### Olá, eu sou a Letícia Leão
 
-Eu trabalhei cerca de 9 anos na área contábil, 
-em 2022 resolvi fazer uma transição de carreira,💡 
-deixei a contabilidade e estou embarcando nesse mundo incrível da tecnologia.💻🌍
-Tenho feito cursos na Alura, estou fazendo também um curso tecnológo de análise e desenvolvimento de sistemas na Estácio e
-estou em busca de conhecimento e novas experiências.
+👩‍🎓Estudante de Análise e Desenvolvimento de Sistemas
+
+📚Bacharel em Ciências Contábeis
+
+🔁 Fazendo transição de carreira de Contabéis para tecnologia
+
+💻👩🏽Decidida a me tornar uma Programadora/Desenvolvedora
 
 ##
 
