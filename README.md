@@ -21,4 +21,4 @@ estou em busca de conhecimento e novas experiências.
   
  ##
   
-![Snake animation](https://github.com/letsle/letsle/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/letsle/letsle/blob/output/github-contribution-grid-snake.svg)
