@@ -1,4 +1,4 @@
-### Olá, eu sou a Letícia Leão
+### Olá, eu sou a Letícia
 
 👩‍🎓Estudante de Análise e Desenvolvimento de Sistemas
 
