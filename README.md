@@ -2,11 +2,24 @@
 
 👩‍🎓Estudante de Análise e Desenvolvimento de Sistemas
 
-📚Bacharel em Ciências Contábeis
+📚Bacharel em Ciências Contábeis                  
 
 🔁 Fazendo transição de carreira de Contabéis para tecnologia
 
-💻👩🏽Decidida a me tornar uma Programadora/Desenvolvedora
+💻👩🏽Decidida a me tornar uma Programadora/Desenvolvedora  
+
+
+##
+
+Hello, I'm Leticia
+
+👩🎓Student of Systems Analysis and Development
+
+📚Bachelor of Science in Accounting
+
+🔁 Making career transition from accounting to technology
+
+💻👩🏽Decided to become a Programmer/Developer
 
 ##
 
