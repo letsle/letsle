@@ -6,7 +6,7 @@
 
 🔁 Fazendo transição de carreira de Contabéis para tecnologia
 
-💻👩🏽Decidida a me tornar uma Programadora/Desenvolvedora  
+💻👩🏽Uma desenvolvedora/programadora em construção
 
 
 ##
@@ -19,7 +19,7 @@ Hello, I'm Leticia
 
 🔁 Making career transition from accounting to technology
 
-💻👩🏽Decided to become a Programmer/Developer
+💻👩🏽A developer/programmer under construction
 
 ##
 
