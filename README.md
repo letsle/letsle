@@ -18,5 +18,16 @@ Hello, I'm Leticia
 💻👩🏽A developer/programmer under construction
 
 
+<div align="center">
+  <a href="github.com/letsle">
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=letsle&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsle&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
   
  ![Snake animation](https://github.com/letsle/letsle/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+ 
