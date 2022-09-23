@@ -1,4 +1,4 @@
-### Olá, eu sou a Letícia 😉
+## Olá, eu sou a Letícia 😉
 
 👩‍🎓Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -9,7 +9,7 @@
 
 ##
 
-Hello, I'm Leticia
+## Hello, I'm Leticia
 
 👩🎓Student of Systems Analysis and Development
 
