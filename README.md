@@ -19,11 +19,15 @@
 
 <br>
 
+<br />
 
-<div align="center">
-  <a href="https://github.com/letsle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letsle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsle&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center"><br>
+
+[![Leticia's github stats](https://github-readme-stats.vercel.app/api?username=letsle&show_icons=true&theme=dracula)](https://github.com/letsle/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsle&layout=compact&show_icons=true&theme=dracula)](https://github.com/letsle/github-readme-stats)
+
 </div>
   
 <div align="center"><br>
