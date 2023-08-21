@@ -4,7 +4,6 @@ I'm a Junior Front End  programmer with a passion for creating attractive and in
 
 🌱I'm currently a member of DevClub, where I'm pursuing full stack training, immersing myself in the technologies and practices that allow me to create complete and functional solutions.
 
-Feel free to contact me and collaborate on interesting projects.Let's build great things together!😉
 
 <br />
 
