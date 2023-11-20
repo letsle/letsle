@@ -1,8 +1,8 @@
 # Hello, I'm Letícia Leão! 👋
 
-I'm a Junior Front End  programmer with a passion for creating attractive and interactive interfaces. I'm currently studying Systems Analysis and Development to expand my knowledge and skills.
+👩‍💻 I'm a student of Development and Programming with a keen interest in crafting visually appealing and interactive interfaces. Currently enrolled in Systems Analysis and Development, I'm dedicated to expanding my knowledge and skills in the field.
 
-🌱I'm currently a member of DevClub, where I'm pursuing full stack training, immersing myself in the technologies and practices that allow me to create complete and functional solutions.
+🌱 Actively participating in DevClub, I'm undergoing full-stack training to immerse myself in the diverse technologies and best practices that enable me to build comprehensive and functional solutions.
 
 
 <br />
