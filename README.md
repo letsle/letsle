@@ -1,4 +1,5 @@
-# Hello, I'm Letícia Leão! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d860d&height=180&section=header&text=Hello,+I'm+Letícia+Leão&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 
 👩‍💻 I'm a student of Development and Programming with a keen interest in crafting visually appealing and interactive interfaces. Currently enrolled in Systems Analysis and Development, I'm dedicated to expanding my knowledge and skills in the field.
 
@@ -36,6 +37,7 @@
 
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d860d&height=120&section=footer"/>
   
 
 
