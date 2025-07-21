@@ -1,8 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d860d&height=180&section=header&text=Hello,+I'm+Letícia+Leão&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-👩‍💻 I'm a student of Development and Programming with a keen interest in crafting visually appealing and interactive interfaces. Currently enrolled in Systems Analysis and Development, I'm dedicated to expanding my knowledge and skills in the field.
+🎓 I'm a career-changer from Accounting to Software Development, currently pursuing:
+- A Postgraduate Degree in **Software Engineering** at *PUC Minas*
+- A Degree in **Systems Analysis and Development**
 
-🌱 Actively participating in DevClub, I'm undergoing full-stack training to immerse myself in the diverse technologies and best practices that enable me to build comprehensive and functional solutions.
+
+🌱 I'm always looking to grow professionally and build clean, scalable, and user-focused solutions through practical projects and continuous learning.
 
 
 <br />
